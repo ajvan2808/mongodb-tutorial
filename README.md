@@ -8,4 +8,4 @@ To start with this repo, you first need to install Pymongo and MongoEngine by ru
 `pip install -r requirements.txt`
 
 ### For document notes on Notion: 
-[What is MongoDB?](doc:https://www.notion.so/MongoDB-d18567e476024efeb86a03f442393290)
+[What is MongoDB?](doc:https://www.notion.so/MongoDB-d18567e476024efeb86a03f442393290?pvs=4)
